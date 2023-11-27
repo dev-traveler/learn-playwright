@@ -1,0 +1,22 @@
+{
+  "name": "learn-playwright",
+  "version": "1.0.0",
+  "description": "Learn Playwright from official documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-traveler/learn-playwright.git"
+  },
+  "keywords": [
+    "playwright"
+  ],
+  "author": "dev_traveler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-traveler/learn-playwright/issues"
+  },
+  "homepage": "https://github.com/dev-traveler/learn-playwright#readme"
+}
